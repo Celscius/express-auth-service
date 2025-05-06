@@ -1,5 +1,3 @@
-# express-auth-service
-
 # Express-Auth-Service
 
 A Simple Token-Based User Authentication Service using JWT in Node JS and MongoDB.
